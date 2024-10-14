@@ -1,16 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nihir Shah
 ==================================================================================================================================
 
-Senior Software Engineer @ DemandHelm
+Senior Manager @ [Kotak Securities](https://www.kotaksecurities.com/)
 -------------------------------------
 
 I'm a Full Stack developer with great interest in learning new things and experimenting stuffs
 
 *   🖥️  See my portfolio at [nihir-shah.com](http://nihir-shah.netlify.app/)
-*   🌍  I'm based in Mumbai
+*   🌍  I'm based out of Mumbai💫
 *   ✉️  You can contact me at [nihir10dec@gmail.com](mailto:nihir10dec@gmail.com)
-*   🚀  I'm currently working on [DemandHelm](http://demandhelm.com)
-*   🧠  I'm learning Next JS, Docker
+*   🚀  I'm currently working in [Kotak Securities](https://www.kotaksecurities.com/) as a Full Stack Developer
+*   🚀  I'm previously worked at [DemandHelm](http://demandhelm.com) and [Infosys Ltd](https://www.infosys.com/)
+*   🧠  I'm trying to learn Next JS & Docker
 *   🤝  I'm open to collaborating on Front-end or Full stack projects
   
 <a href="https://www.github.com/Nihir10dec" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Nihir10dec?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
