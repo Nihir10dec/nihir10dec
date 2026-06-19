@@ -6,7 +6,7 @@ Senior Manager @ [Kotak Securities](https://www.kotaksecurities.com/)
 
 I'm a Full Stack developer with great interest in learning new things and experimenting stuffs
 
-*   🖥️  See my portfolio at [nihir-shah.com](http://nihir-shah.netlify.app/)
+*   🖥️  See my portfolio at [nihir-shah.com](https://nihir-mobile-portfolio.vercel.app/)
 *   🌍  I'm based out of Mumbai💫
 *   ✉️  You can contact me at [nihir10dec@gmail.com](mailto:nihir10dec@gmail.com)
 *   🚀  I'm currently working in [Kotak Securities](https://www.kotaksecurities.com/) as a Full Stack Developer
